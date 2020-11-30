@@ -37,7 +37,7 @@ Once simulaiton is running follow steps below.
 4. Select Login
 5. Follow Home screen directions below
 
-####Homme
+####Home
 
 1. New Padawan Post will allow user to enter a new Padawan post
 2. New Mentor Post will allow user to enter a new Mentor post
